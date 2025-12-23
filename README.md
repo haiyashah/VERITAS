@@ -13,6 +13,11 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip setuptools wheel
 
+pip install numpy==1.24.4
+pip install scipy==1.10.1
+pip install scikit-learn==1.3.2
+pip install openai
+
 pip install -r requirements.txt
 python run_experiment.py
 
