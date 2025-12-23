@@ -1,0 +1,8 @@
+Article 44: General principle for transfers
+Any transfer of personal data to a third country or international organisation shall take place only if the conditions laid down in this Regulation are complied with by the controller and processor.
+
+Article 45: Transfers on the basis of an adequacy decision
+A transfer of personal data to a third country may take place where the Commission has decided that the third country ensures an adequate level of protection.
+
+Article 46: Appropriate safeguards
+In the absence of an adequacy decision, the controller or processor may transfer personal data only if appropriate safeguards are provided...
