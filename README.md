@@ -1,5 +1,18 @@
-# VERITAS
+# VERITAS: Verified Enterprise Reasoning via Inference-Time Adaptation
 
+This repository demonstrates an inference-time adaptation system for LLMs.
+It generates probe questions, evaluates consistency, and produces a more reliable answer for enterprise domains.
+
+## Quick Start
+
+```bash
+git clone https://github.com/haiyashah/VERITAS
+cd veritas
+pip install -r requirements.txt
+python run_experiment.py
+
+```
+<!--
 ---
 
 To try it out, download and run: ``` python run_experiment.py ```
@@ -59,3 +72,4 @@ veritas/
     └── gdpr_docs.txt
 
 ```
+-->
