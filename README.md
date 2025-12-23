@@ -8,6 +8,11 @@ It generates probe questions, evaluates consistency, and produces a more reliabl
 ```bash
 git clone https://github.com/haiyashah/VERITAS
 cd veritas
+
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip setuptools wheel
+
 pip install -r requirements.txt
 python run_experiment.py
 
